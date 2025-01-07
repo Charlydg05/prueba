@@ -5,6 +5,7 @@ import java.util.List;
 import com.mx.Dominio.Libro;
 
 //hola prueba de editar archivos
+/// nuevo metodo
 public interface Metodos {
 	
 	public void guardar(Object obj);
